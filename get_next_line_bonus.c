@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: lduhamel <lduhamel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/12/10 11:26:10 by lduhamel          #+#    #+#             */
-/*   Updated: 2019/12/10 12:59:37 by lduhamel         ###   ########.fr       */
+/*   Created: 2019/12/10 11:22:05 by lduhamel          #+#    #+#             */
+/*   Updated: 2019/12/10 13:00:26 by lduhamel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int			ft_read(int fd, char **str, char **rest)
 {

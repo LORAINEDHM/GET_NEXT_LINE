@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: lduhamel <lduhamel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/12/10 11:26:48 by lduhamel          #+#    #+#             */
-/*   Updated: 2019/12/10 12:51:26 by lduhamel         ###   ########.fr       */
+/*   Created: 2019/12/10 11:22:17 by lduhamel          #+#    #+#             */
+/*   Updated: 2019/12/10 13:00:46 by lduhamel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t		ft_strlen_v2(char *str)
 {
